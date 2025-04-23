@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.2.13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
-    <mxGraphModel dx="6109" dy="4109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0" adaptiveColors="simple">
+    <mxGraphModel dx="2468" dy="1926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0" adaptiveColors="simple">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -329,7 +329,7 @@
             <mxPoint x="750" y="-333" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="td_Av-m55YhvbqWWsZaj-8" value="받아온&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;데이터를&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;처리하고 influxDB에&lt;/span&gt;&lt;div&gt;전달하는 API&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;Rule Engine -&amp;gt; 이상치 검증&lt;/div&gt;&lt;/div&gt;&lt;div&gt;AI -&amp;gt; 결측치 채움&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="td_Av-m55YhvbqWWsZaj-8" value="받아온&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;데이터를&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;처리하고 influxDB에&lt;/span&gt;&lt;div&gt;전달하는 API&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;Rule Engine -&amp;gt; 이상치 검증&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="582.5" y="180" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="td_Av-m55YhvbqWWsZaj-30" value="Warnify Service" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
@@ -566,7 +566,7 @@
         <mxCell id="jK0Kwi4PwTxDkXQlB5lv-20" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;회사 정보 (구매 시점)&lt;/span&gt;&lt;div&gt;&lt;div&gt;유저 정보(로그인 시점)&lt;/div&gt;&lt;div&gt;권한(로그인 시점)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Rule 정보(사용자가 정의한 Rule)&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;서버실 정보&lt;/div&gt;&lt;div&gt;-CPU, 메모리 사용량, 온도,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-평균값, 최소값, 최대값&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;예측 정보&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;base=10;size=36;position=0.45;" parent="1" vertex="1">
           <mxGeometry x="875.24" y="-377.5" width="189.51" height="215.9" as="geometry" />
         </mxCell>
-        <mxCell id="taJmCOi4-HMo-N6sybhR-4" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="taJmCOi4-HMo-N6sybhR-4" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="-360" y="-670" width="2800" height="1420" as="geometry" />
         </mxCell>
         <mxCell id="taJmCOi4-HMo-N6sybhR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="taJmCOi4-HMo-N6sybhR-4">
