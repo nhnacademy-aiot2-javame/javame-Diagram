@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
-    <mxGraphModel dx="2866" dy="6785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0" adaptiveColors="simple">
+    <mxGraphModel dx="3266" dy="6785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0" adaptiveColors="simple">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wNhdNE3s0eYwVM9G92PP-28" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;size=285;dashed=1;dashPattern=8 8;strokeColor=#6c8ebf;fillColor=#dae8fc;rounded=1;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="-1038.3899999999999" y="-4510" width="938.22" height="375" as="geometry" />
+          <mxGeometry x="-1180" y="-4820" width="938.22" height="585.45" as="geometry" />
         </mxCell>
         <mxCell id="wNhdNE3s0eYwVM9G92PP-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="wNhdNE3s0eYwVM9G92PP-1">
           <mxGeometry relative="1" as="geometry">
@@ -701,22 +701,22 @@
           <mxGeometry y="70" width="176" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wNhdNE3s0eYwVM9G92PP-3" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_temperature_humidity_sensor;" vertex="1" parent="1">
-          <mxGeometry x="-594.83" y="-4539.55" width="51.09" height="51.09" as="geometry" />
+          <mxGeometry x="-824.83" y="-4749.55" width="51.09" height="51.09" as="geometry" />
         </mxCell>
         <mxCell id="wNhdNE3s0eYwVM9G92PP-20" value="" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.office;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="-4570" width="113.75" height="111.99" as="geometry" />
+          <mxGeometry x="-950" y="-4780" width="113.75" height="111.99" as="geometry" />
         </mxCell>
         <mxCell id="wNhdNE3s0eYwVM9G92PP-37" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FXJgiE%2FbtsHU6pj7nF%2FYIDEYiz4FnubGAS3pkNEwK%2Fimg.png;" vertex="1" parent="1">
-          <mxGeometry x="-594.83" y="-4343.85" width="103.92" height="41.48" as="geometry" />
+          <mxGeometry x="-824.83" y="-4553.85" width="103.92" height="41.48" as="geometry" />
         </mxCell>
         <mxCell id="wNhdNE3s0eYwVM9G92PP-39" value="" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.office;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="-4388.01" width="113.75" height="111.99" as="geometry" />
+          <mxGeometry x="-950" y="-4598.01" width="113.75" height="111.99" as="geometry" />
         </mxCell>
         <mxCell id="wNhdNE3s0eYwVM9G92PP-42" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.distro_for_opentelemetry;" vertex="1" parent="1">
-          <mxGeometry x="-585.18" y="-4173.85" width="41.44" height="41.44" as="geometry" />
+          <mxGeometry x="-815.18" y="-4383.85" width="41.44" height="41.44" as="geometry" />
         </mxCell>
         <mxCell id="wNhdNE3s0eYwVM9G92PP-43" value="" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.office;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="-4218.01" width="113.75" height="111.99" as="geometry" />
+          <mxGeometry x="-950" y="-4428.01" width="113.75" height="111.99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
