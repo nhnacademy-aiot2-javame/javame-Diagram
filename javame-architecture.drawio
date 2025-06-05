@@ -85,7 +85,7 @@
           <mxGeometry y="120" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="taJmCOi4-HMo-N6sybhR-4" value="" style="group" parent="1" connectable="0" vertex="1">
-          <mxGeometry x="-350" y="-5280" width="2800" height="2215" as="geometry" />
+          <mxGeometry x="-370" y="-5310" width="2800" height="2215" as="geometry" />
         </mxCell>
         <mxCell id="taJmCOi4-HMo-N6sybhR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" parent="taJmCOi4-HMo-N6sybhR-4" vertex="1">
           <mxGeometry y="105" width="2800" height="1390" as="geometry" />
@@ -498,7 +498,7 @@
           <mxGeometry x="48" y="9.620000000000005" width="100" height="64" as="geometry" />
         </mxCell>
         <mxCell id="jK0Kwi4PwTxDkXQlB5lv-21" value="파이썬 API와 통신하며&lt;div&gt;예측값을 가져오고 DB에 저장,&lt;/div&gt;&lt;div&gt;그리고 Front에 전달하는 API&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" parent="taJmCOi4-HMo-N6sybhR-4" vertex="1">
-          <mxGeometry x="1562" y="1060" width="200" height="64" as="geometry" />
+          <mxGeometry x="1562" y="1038" width="200" height="64" as="geometry" />
         </mxCell>
         <mxCell id="LegsocaxV5xp5K_2k3RB-9" value="" style="group" vertex="1" connectable="0" parent="taJmCOi4-HMo-N6sybhR-4">
           <mxGeometry x="1123.5900000000001" y="971" width="202" height="130" as="geometry" />
